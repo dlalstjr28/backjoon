@@ -12,4 +12,5 @@ for _ in range(number-1):
 print(sum(init)%1000000000)
 
 ## 끝자리의 숫자로 푸는게 가장 중요함. 0,9가 키포인트임.
+## 갈래길이 두가지로 분기되는 것 확인 필요함. 
 ## https://myjamong.tistory.com/312
