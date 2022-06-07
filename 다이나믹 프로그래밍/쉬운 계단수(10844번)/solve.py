@@ -11,4 +11,5 @@ for _ in range(number-1):
     init = temp
 print(sum(init)%1000000000)
 
-##https://myjamong.tistory.com/312
+## 끝자리의 숫자로 푸는게 가장 중요함. 0,9가 키포인트임.
+## https://myjamong.tistory.com/312
